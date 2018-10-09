@@ -4,7 +4,9 @@ import java.util.*;
 /**
  * This class creates all the objects and perform user interaction to
  * play a text-based Tic-Tac-Toe Game
+ * 
  * @author Dr. Raunak
+ * @author Dr. Kenyon
  * @version 1.0 4/4/2018
  */
 
